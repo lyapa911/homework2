@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Визитка</title>
+
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="content">
+    <a href="https://imgbb.com/"><img src="https://image.ibb.co/n1ovRv/4ewt4sz_Kijg.jpg"  alt="4ewt4sz_Kijg" align="middle" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/' ></a><br />
+    <h3 class="byline"><strong>ITs me: Lyapnev Petr</strong></h3>
+    <h1>About me</h1>
+    <h2>Hello everyone! My name is Lyapnev Petr and let me introduce myself. I have been named after my grandfather and I am very happy about it. I was born on march 31, 1991 in Blagoveshchensk(far east region of Russia). I am 3rd child in the family(youngest). I am always very busy, but when I am free I am fond of reading books and I am fond of memes.</h2>
+    <h3>It's very easy to be different, but very difficult to be better</h3>
+    <p>Why choose Me?<br>
+Everyday i work hard to make life of our clients better and happier</p>
+    <p>Skills:<br>
+• Windows Os 
+• Setting up a PC 
+• Build a PC 
+• Software Configuration 
+• Diagnostics 
+• MS Outlook 
+• Internet 
+• Office equipment 
+• Driving license category B 
+• English 
+• Negotiation 
+• business correspondence 
+• Teamwork 
+• Business conversation 
+• Telephone conversations 
+• Catering 
+• Accuracy and attention to detail 
+• Technical support 
+• Driving License B 
+• MS Internet Explorer, Chrome, Mozila FF.
+• Grammatically correct speech 
+• Search for information on the Internet 
+• Email 
+• Adobe Reader 
+• Online search for information on the Internet 
+• Configuring Network Connections 
+• Technical support of users<br>
+Personal qualities:<br>
+• Communication skills; 
+• Exercise; 
+• A responsibility; 
+• Perseverance; 
+• Practicality; 
+• Punctuality; 
+• Easy to train.<br>
+Individual Approach:<br>
+• 1st place in summer 2016 football tournament in "SKB Kontur" company;<br>
+• 2nd place in summer 2016 volleyball tournament in "SKB Kontur" company.</p>
+<h4> Опыт работы :<br>
+Закрытое акционерное общество «Производственная фирма «СКБ Контур» (ЗАО «ПФ «СКБ Контур») Июль 2014 – август 2017 Специалист по сопровождению программного обеспечения<br>
+Сопровождение абонентов в сдаче отчетности, в том числе заполнение отчетности фнс, росстат, пфр, фсс;<br>
+Настройка рабочего места для работы с продуктами контура;<br>
+Диагностика и исправление неполадок работы компьютера;<br>
+Деловое общение с абонентами по телефону и через сервис писем.<br>
+Официальный дилер Skoda (ООО «МАКС Моторс Трейд») г. Новосибирск Июль 2013 – Сентябрь 2013 Механик<br>
+Предпродажная подготовка а/м;<br>
+Шиномонтаж;<br>
+Ремонт ходовой части;<br>
+Мелкий ремонт а/м.<br>
+Официальный дилер Ford (ООО «МАКС Моторс Трейд») г. Новосибирск Июль 2012 – Май 2013 Механик<br>
+Предпродажная подготовка а/м;<br>
+Шиномонтаж;<br>
+Ремонт ходовой части;<br>
+Мелкий ремонт а/м.<br>
+Политех Сервис (ЗАО «Политех Сервис») г. Новосибирск Март 2012 – Июнь 2012 Мастер по ремонту электроники<br>
+Диагностика электроники;<br>
+Ремонт или замена неисправных деталей;<br>
+Пайка.</h4>
+  </div>
+  <iframe width="1903" height="789" src="https://www.youtube.com/embed/eRlKUj0c5sY?list=WL" frameborder="0" allowfullscreen></iframe>
+</body>
+
+</html>
